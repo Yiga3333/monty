@@ -1,10 +1,26 @@
--bytecodes/00.m
-push 1$
-push 2$
-push 3$
-pall $
-%monty bycodes /00.m
-3
-2
-1
+#include<stdio.h>
+
+#include<stdlib.h>
+
+# define size 4
+
+int top=-1 inp-array[size]
+void pop()
+void pop();
+void show();
+
+intmain()
+{
+    int choice;
+    while(1)
+    {
+    
+     printf( " this is the group project done in full combiination of two people in collabolation with each other);
+    printf(its almost done with these task);
+
+
+      switch (choice)      {
+      case 1 :push();
+     case 2 :pop()
+}}}
 
